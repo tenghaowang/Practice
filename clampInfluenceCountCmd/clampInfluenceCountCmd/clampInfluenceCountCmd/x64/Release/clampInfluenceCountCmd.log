@@ -1,0 +1,8 @@
+﻿  clampInfluenceCount.cpp
+c:\users\ryan\desktop\ryan_working\scripts\tecenttest\clampinfluencecountcmd\clampinfluencecountcmd\clampinfluencecountcmd\src\clampinfluencecount.cpp(88): warning C4018: '<': signed/unsigned mismatch
+  pluginMain.cpp
+     Creating library C:\Users\Ryan\Desktop\ryan_working\scripts\TecentTest\clampInfluenceCountCmd\clampInfluenceCountCmd\x64\Release\clampInfluenceCountCmd.lib and object C:\Users\Ryan\Desktop\ryan_working\scripts\TecentTest\clampInfluenceCountCmd\clampInfluenceCountCmd\x64\Release\clampInfluenceCountCmd.exp
+  Generating code
+  All 151 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  clampInfluenceCountCmd.vcxproj -> C:\Users\Ryan\Desktop\ryan_working\scripts\TecentTest\clampInfluenceCountCmd\clampInfluenceCountCmd\x64\Release\clampInfluenceCountCmd.mll

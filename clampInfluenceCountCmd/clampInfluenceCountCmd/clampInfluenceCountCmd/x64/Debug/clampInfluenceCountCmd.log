@@ -1,0 +1,7 @@
+﻿  clampInfluenceCount.cpp
+c:\users\ryan\desktop\ryan_working\scripts\tecenttest\clampinfluencecountcmd\clampinfluencecountcmd\clampinfluencecountcmd\src\clampinfluencecount.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\ryan\desktop\ryan_working\scripts\tecenttest\clampinfluencecountcmd\clampinfluencecountcmd\clampinfluencecountcmd\src\clampinfluencecount.cpp(102): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  pluginMain.cpp
+  Generating Code...
+     Creating library C:\Users\Ryan\Desktop\ryan_working\scripts\TecentTest\clampInfluenceCountCmd\clampInfluenceCountCmd\x64\Debug\clampInfluenceCountCmd.lib and object C:\Users\Ryan\Desktop\ryan_working\scripts\TecentTest\clampInfluenceCountCmd\clampInfluenceCountCmd\x64\Debug\clampInfluenceCountCmd.exp
+  clampInfluenceCountCmd.vcxproj -> C:\Users\Ryan\Desktop\ryan_working\scripts\TecentTest\clampInfluenceCountCmd\clampInfluenceCountCmd\x64\Debug\clampInfluenceCountCmd.mll
